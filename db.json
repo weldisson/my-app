@@ -1,0 +1,26 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Produto 1",
+        "price": 10.99,
+        "image": "https://source.unsplash.com/random/300x300/?product",
+        "description": "Descrição do produto 1"
+      },
+      {
+        "id": 2,
+        "name": "Produto 2",
+        "price": 19.99,
+        "image": "https://source.unsplash.com/random/300x300/?product",
+        "description": "Descrição do produto 2"
+      },
+      {
+        "id": 3,
+        "name": "Produto 3",
+        "price": 5.99,
+        "image": "https://source.unsplash.com/random/300x300/?product",
+        "description": "Descrição do produto 3"
+      }
+    ]
+  }
+  
